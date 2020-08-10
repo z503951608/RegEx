@@ -22,4 +22,4 @@
 
 ## 时间
 * ^[1-9]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])$  格式为：2014-01-01
-https://github.com/z503951608/RegEx/blob/master/%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true
+![license](https://github.com/z503951608/RegEx/blob/master/%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true)
